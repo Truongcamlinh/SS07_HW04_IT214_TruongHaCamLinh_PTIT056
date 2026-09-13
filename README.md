@@ -1,8 +1,5 @@
 # SS07 HW04: Chuyển đổi từ RestTemplate sang FeignClient
 
-**Sinh viên:** Truong Ha Cam Linh  
-**Lớp:** IT214  
-**Mã:** PTIT056
 
 ## Mục tiêu
 
